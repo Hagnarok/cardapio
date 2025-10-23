@@ -1,0 +1,46 @@
+[
+    {
+        "id": "1",
+        "name": "Hamburgão",
+        "price": 25.00,
+        "img" : "/img/hamburger-h500.png",
+        "type": "hamburger",
+        "description" : "Delicioso sanduiche com 2 hamburgeres, salada, molho barbecue e queijo.",
+        "items" : [
+            "2 hamburgeres", "1 alface", "1 queijo"
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Dogão",
+        "price": 25.00,
+        "img" : "/img/hotdog-h500.png",
+        "type": "hot-dog",
+        "description" : "Delicioso sanduiche com 2 salsichas, queijo, presunto e purê",
+        "items" : [
+            "2 salsichas", "queijo", "presunto", "purê"
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Cheddar Fries",
+        "price": 30.00,
+        "img" : "/img/snacks-h500.png",
+        "type": "snack",
+        "description" : "Porção de fritas com cheddar e bacon",
+        "items" : [
+            "Fritas", "Cheddar", "Bacon"
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Batata com Legumes na Manteiga",
+        "price": 35.00,
+        "img" : "/img/potato-h500.png",
+        "type": "potato",
+        "description" : "Batata recheada com milho, ervilha, cenora e azeitona refogados na manteiga",
+        "items" : [
+            "Ervilha", "Milho", "Cenoura, Azeitona"
+        ]
+      }
+]

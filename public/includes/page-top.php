@@ -12,7 +12,7 @@
             <div class="collapse navbar-collapse" id="navbarMain">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Home Page</a>
+                        <a class="nav-link" href="index.php">Home Page</a>
                     </li>
 
                     <li class="nav-item dropdown">
@@ -20,7 +20,7 @@
                             Menu
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="menuLink">
-                            <li><a class="dropdown-item" href="#">Hamburger</a></li>
+                            <li><a class="dropdown-item" href="# ">Hamburger</a></li>
                             <li><a class="dropdown-item" href="#">Pizza</a></li>
                             <li><a class="dropdown-item" href="#">Hot-Dog</a></li>
                             <li><a class="dropdown-item" href="#">Snacks</a></li>
